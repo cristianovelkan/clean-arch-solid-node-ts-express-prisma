@@ -1,0 +1,17 @@
+{
+  "name": "clean-arch-solid-node-ts-express-prisma",
+  "version": "1.0.0",
+  "description": "SOLID + Clean Architecture: NodeJS, Typescript, Express & Prisma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node src/main.ts"
+  },
+  "author": "Cristiano Mendes",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.6.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
